@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Avenir Next";
+  src: url("./fonts/AvenirNextLTPro-Regular.otf") format("opentype");
+  src: url("./fonts/PlayfairDisplay-Regular.otf") format();
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  src: url("./fonts/PlayfairDisplay-Italic.otf") format("opentype");
+}
+
+body {
+  background-color: #fcfcf0;
+}
+
+html {
+  font-family: "Avenir Next";
+}

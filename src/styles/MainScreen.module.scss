@@ -1,0 +1,18 @@
+.pagelayout {
+  background: linear-gradient(180deg, #dedde2 0%, #e3e6ed 44.29%, #dde6ef 100%);
+}
+
+@media screen and (max-device-width: 800px) {
+  .pagelayout {
+    background: linear-gradient(
+      270deg,
+      #cfcdce 0%,
+      #dadadc 44.29%,
+      #dedde2 100%
+    );
+  }
+}
+
+.text {
+  font-family: "Playfair Display";
+}
