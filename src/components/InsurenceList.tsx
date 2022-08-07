@@ -10,7 +10,7 @@ type Props = {};
 function InsurenceList({}: Props) {
   return (
     <div className="flex h-[250px] md:h-[150px] lg:h-[120px] flex-col md:flex-row items-center justify-between pb-[30px] md:pb-0 md:px-[5%]">
-      <div className="flex w-[100%] md:py-2 md:w-[80%] md:gap-[14%] flex-wrap justify-center p-1">
+      <div className="flex w-[100%] md:py-2 md:w-[80%] md:gap-[10%] flex-wrap justify-center p-1">
         <img src={blueCross} alt="" />
         <img src={cigna} alt="" />
         <img src={UHC} alt="" />

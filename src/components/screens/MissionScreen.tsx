@@ -14,23 +14,23 @@ const MissionScreen = (props: Props) => {
       <div className="self-center p-[13px] md:p-0">
         <strong className="text-white w-[495px] text-[36px] md:text-[48px] leading-none">
           {"Our mission is simple:"}
-          <p>to make healthcare</p>
-          <p className={`${styles.text}`}>
-            <p className="inline text-[#F87C56]">accessible,</p>{" "}
-            <p className="inline text-[#F5CABF]">affordable,</p>
-          </p>
+          <div>to make healthcare</div>
+          <div className={`${styles.text}`}>
+            <div className="inline text-[#F87C56]">accessible, </div>
+            <div className="inline text-[#F5CABF]">affordable,</div>
+          </div>
           {"and "}
-          <p className={`text-[#8ABADD] inline  ${styles.text}`}>
+          <div className={`text-[#8ABADD] inline  ${styles.text}`}>
             easy to use.
-          </p>
+          </div>
         </strong>
-        <p className="text-white md:w-[513px] mt-[5%] text-[18px]">
+        <div className="text-white md:w-[513px] mt-[5%] text-[18px]">
           STI rates are hitting record numbers, yet testing is lacking. We want
           to fix this by providing a more discreet and convenient way of
           maintaining sexual health for you. The easier it is to access and
           learn about your health, the easier it is for you to take meaningful
           action, whenever you need it.
-        </p>
+        </div>
         <Button
           disabled={false}
           sorce={null}

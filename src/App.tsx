@@ -12,7 +12,7 @@ import SliderScreen from "./components/screens/SliderScreen";
 function App() {
   return (
     <>
-      <div className="sticky top-0  w-[100%] ">
+      <div className="sticky top-0  w-[100%] z-10">
         <Header />
         <NavBar />
       </div>
