@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/phenomenon-studio/static/css/main.d92e278c.css",
-    "main.js": "/phenomenon-studio/static/js/main.77227d87.js",
+    "main.css": "/phenomenon-studio/static/css/main.a6d55ebb.css",
+    "main.js": "/phenomenon-studio/static/js/main.1227e309.js",
     "static/media/mainBoy.png": "/phenomenon-studio/static/media/mainBoy.cf68329d830d5b941699.png",
     "static/media/back.png": "/phenomenon-studio/static/media/back.db433a3a55d05498175e.png",
     "static/media/TT.png": "/phenomenon-studio/static/media/TT.b9927a9280a4646fe3fa.png",
@@ -19,11 +19,11 @@
     "static/media/flag.png": "/phenomenon-studio/static/media/flag.5e9c7793b963fa5e51fe.png",
     "index.html": "/phenomenon-studio/index.html",
     "static/media/line.svg": "/phenomenon-studio/static/media/line.8fc8e24cd193fecc1a221a34b6ae4e9b.svg",
-    "main.d92e278c.css.map": "/phenomenon-studio/static/css/main.d92e278c.css.map",
-    "main.77227d87.js.map": "/phenomenon-studio/static/js/main.77227d87.js.map"
+    "main.a6d55ebb.css.map": "/phenomenon-studio/static/css/main.a6d55ebb.css.map",
+    "main.1227e309.js.map": "/phenomenon-studio/static/js/main.1227e309.js.map"
   },
   "entrypoints": [
-    "static/css/main.d92e278c.css",
-    "static/js/main.77227d87.js"
+    "static/css/main.a6d55ebb.css",
+    "static/js/main.1227e309.js"
   ]
 }
