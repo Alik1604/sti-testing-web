@@ -5,9 +5,12 @@ import InsurenceList from "./components/InsurenceList";
 import Header from "./components/Line";
 import { NavBar } from "./components/NavBar";
 import BoxesScreen from "./components/screens/BoxesScreen";
+import ContactScreen from "./components/screens/ContactScreen";
+import InfoScreen from "./components/screens/InfoScreen";
 import MainSreen from "./components/screens/MainSreen";
 import MissionScreen from "./components/screens/MissionScreen";
 import SliderScreen from "./components/screens/SliderScreen";
+import SocialScreen from "./components/screens/SocialScreen";
 
 function App() {
   return (
@@ -21,6 +24,9 @@ function App() {
       <MissionScreen />
       <SliderScreen />
       <BoxesScreen />
+      <ContactScreen />
+      <SocialScreen />
+      <InfoScreen />
     </>
   );
 }
